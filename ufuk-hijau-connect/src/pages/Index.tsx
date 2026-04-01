@@ -8,7 +8,6 @@ import UspSection from "@/components/UspSection";
 import SkemaSection from "@/components/SkemaSection";
 import ProcessSection from "@/components/ProcessSection";
 import GallerySection from "@/components/GallerySection";
-import FaqSection from "@/components/FaqSection";
 import FinalCta from "@/components/FinalCta";
 import FooterSection from "@/components/FooterSection";
 
@@ -25,10 +24,8 @@ const Index = () => (
     <SkemaSection />
     <ProcessSection />
     <GallerySection />
-    <FaqSection />
     <FinalCta />
     <FooterSection />
-    
   </>
 );
 
