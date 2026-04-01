@@ -1,0 +1,10 @@
+{
+  "name": "ufuk-hijau-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix ufuk-hijau-connect",
+    "build": "npm run build --prefix ufuk-hijau-connect",
+    "install": "npm install --prefix ufuk-hijau-connect",
+    "preview": "npm run preview --prefix ufuk-hijau-connect"
+  }
+}
